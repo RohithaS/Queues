@@ -1,0 +1,70 @@
+- jobname: Job1
+  team: TA1
+  problem: Prob1
+  CPU: 2
+  memory: 4 GB
+- jobname: Job2
+  team: TA3
+  problem: Prob3
+  CPU: 4
+  memory: 256 GB
+- jobname: Job3
+  team: TA1
+  problem: Prob5
+  CPU: 5
+  memory: 8 GB
+- jobname: Job1
+  team: TA3
+  problem: Prob2
+  CPU: 4
+  memory: 64 GB
+- jobname: Job4
+  team: TA2
+  problem: Prob7
+  CPU: 10
+  memory: 1 TB
+- jobname: Job3
+  team: TA3
+  problem: Prob3
+  CPU: 6
+  memory: 256 GB
+- jobname: Job6
+  team: TA2
+  problem: Prob2
+  CPU: 8
+  memory: 256 GB
+- jobname: Job7
+  team: TA1
+  problem: Prob3
+  CPU: 2
+  memory: 8 GB
+- jobname: Job5
+  team: TA3
+  problem: Prob4
+  CPU: 7
+  memory: 5 GB
+- jobname: Job8
+  team: TA3
+  problem: Prob7
+  CPU: 10
+  memory: 256 GB
+- jobname: Job4
+  team: TA2
+  problem: Prob5
+  CPU: 7
+  memory: 8 GB
+- jobname: Job5
+  team: TA1
+  problem: Prob1
+  CPU: 3
+  memory: 4 GB
+- jobname: Job7
+  team: TA2
+  problem: Prob7
+  CPU: 4
+  memory: 32 GB
+- jobname: Job6
+  team: TA3
+  problem: Prob1
+  CPU: 10
+  memory: 32 GB
